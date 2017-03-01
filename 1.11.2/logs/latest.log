@@ -1,0 +1,50 @@
+[19:27:08] [Server thread/INFO]: Starting minecraft server version 1.11.2
+[19:27:08] [Server thread/INFO]: Loading properties
+[19:27:08] [Server thread/INFO]: Default game type: SURVIVAL
+[19:27:08] [Server thread/INFO]: Generating keypair
+[19:27:08] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:27:08] [Server thread/INFO]: Using default channel type
+[19:27:09] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-cb61ac0 (MC: 1.11.2) (Implementing API version 1.11.2-R0.1-SNAPSHOT)
+[19:27:09] [Server thread/INFO]: [RaspberryJuice] Loading RaspberryJuice v1.9
+[19:27:09] [Server thread/INFO]: Preparing level "world"
+[19:27:09] [Server thread/INFO]: Preparing start region for level 0 (Seed: 8696978110078852599)
+[19:27:10] [Server thread/INFO]: Preparing spawn area: 46%
+[19:27:10] [Server thread/INFO]: Preparing start region for level 1 (Seed: 8696978110078852599)
+[19:27:11] [Server thread/INFO]: Preparing start region for level 2 (Seed: 8696978110078852599)
+[19:27:11] [Server thread/INFO]: [RaspberryJuice] Enabling RaspberryJuice v1.9
+[19:27:11] [Server thread/INFO]: [RaspberryJuice] Using port 4711
+[19:27:11] [Server thread/INFO]: [RaspberryJuice] Using RELATIVE locations
+[19:27:11] [Server thread/INFO]: [RaspberryJuice] ThreadListener Started
+[19:27:11] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:27:11] [Server thread/INFO]: Done (2.706s)! For help, type "help" or "?"
+[19:27:21] [User Authenticator #1/INFO]: UUID of player nikmeiser is 50fc0854-5e36-4841-a0a2-b5da2300f112
+[19:27:21] [Server thread/INFO]: nikmeiser[/127.0.0.1:63237] logged in with entity id 387 at ([world]261.22333900158935, 63.0, 226.21262744694175)
+[19:29:26] [Server thread/INFO]: Set the time to 1000
+[20:28:51] [Thread-9/INFO]: [RaspberryJuice] Starting input thread
+[20:28:51] [Thread-10/INFO]: [RaspberryJuice] Starting output thread!
+[20:28:51] [Thread-7/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:64020.
+[20:30:40] [Server thread/INFO]: nikmeiser has just earned the achievement [Taking Inventory]
+[20:32:44] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:64020.
+[20:32:44] [Thread-7/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:64065.
+[20:32:44] [Thread-12/INFO]: [RaspberryJuice] Starting output thread!
+[20:32:44] [Thread-11/INFO]: [RaspberryJuice] Starting input thread
+[20:33:38] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:64065.
+[20:33:38] [Thread-13/INFO]: [RaspberryJuice] Starting input thread
+[20:33:38] [Thread-7/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:64078.
+[20:33:38] [Thread-14/INFO]: [RaspberryJuice] Starting output thread!
+[20:49:23] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:64078.
+[20:49:23] [Thread-7/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:64303.
+[20:49:23] [Thread-15/INFO]: [RaspberryJuice] Starting input thread
+[20:49:23] [Thread-16/INFO]: [RaspberryJuice] Starting output thread!
+[21:49:25] [Server thread/INFO]: nikmeiser lost connection: Disconnected
+[21:49:25] [Server thread/INFO]: nikmeiser left the game
+[21:49:41] [Server thread/INFO]: Stopping the server
+[21:49:41] [Server thread/INFO]: Stopping server
+[21:49:41] [Server thread/INFO]: [RaspberryJuice] Disabling RaspberryJuice v1.9
+[21:49:41] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:64303.
+[21:49:41] [Server thread/INFO]: [RaspberryJuice] Raspberry Juice Stopped
+[21:49:41] [Server thread/INFO]: Saving players
+[21:49:42] [Server thread/INFO]: Saving worlds
+[21:49:42] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[21:49:42] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[21:49:42] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End

@@ -1,0 +1,80 @@
+[17:06:01] [Server thread/INFO]: Starting minecraft server version 1.9.2
+[17:06:01] [Server thread/INFO]: Loading properties
+[17:06:01] [Server thread/INFO]: Default game type: SURVIVAL
+[17:06:01] [Server thread/INFO]: Generating keypair
+[17:06:01] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:06:01] [Server thread/INFO]: Using default channel type
+[17:06:01] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-4cb3258 (MC: 1.9.2) (Implementing API version 1.9.2-R0.1-SNAPSHOT)
+[17:06:01] [Server thread/WARN]: Failed to load user banlist: 
+java.io.FileNotFoundException: banned-players.json (No such file or directory)
+	at java.io.FileInputStream.open0(Native Method) ~[?:1.8.0_121]
+	at java.io.FileInputStream.open(FileInputStream.java:195) ~[?:1.8.0_121]
+	at java.io.FileInputStream.<init>(FileInputStream.java:138) ~[?:1.8.0_121]
+	at com.google.common.io.Files.newReader(Files.java:86) ~[craftbukkit.jar:git-Bukkit-4cb3258]
+	at net.minecraft.server.v1_9_R1.JsonList.load(JsonList.java:171) ~[craftbukkit.jar:git-Bukkit-4cb3258]
+	at net.minecraft.server.v1_9_R1.DedicatedPlayerList.z(SourceFile:99) [craftbukkit.jar:git-Bukkit-4cb3258]
+	at net.minecraft.server.v1_9_R1.DedicatedPlayerList.<init>(SourceFile:25) [craftbukkit.jar:git-Bukkit-4cb3258]
+	at net.minecraft.server.v1_9_R1.DedicatedServer.init(DedicatedServer.java:182) [craftbukkit.jar:git-Bukkit-4cb3258]
+	at net.minecraft.server.v1_9_R1.MinecraftServer.run(MinecraftServer.java:506) [craftbukkit.jar:git-Bukkit-4cb3258]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_121]
+[17:06:01] [Server thread/WARN]: Failed to load ip banlist: 
+java.io.FileNotFoundException: banned-ips.json (No such file or directory)
+	at java.io.FileInputStream.open0(Native Method) ~[?:1.8.0_121]
+	at java.io.FileInputStream.open(FileInputStream.java:195) ~[?:1.8.0_121]
+	at java.io.FileInputStream.<init>(FileInputStream.java:138) ~[?:1.8.0_121]
+	at com.google.common.io.Files.newReader(Files.java:86) ~[craftbukkit.jar:git-Bukkit-4cb3258]
+	at net.minecraft.server.v1_9_R1.JsonList.load(JsonList.java:171) ~[craftbukkit.jar:git-Bukkit-4cb3258]
+	at net.minecraft.server.v1_9_R1.DedicatedPlayerList.y(SourceFile:91) [craftbukkit.jar:git-Bukkit-4cb3258]
+	at net.minecraft.server.v1_9_R1.DedicatedPlayerList.<init>(SourceFile:27) [craftbukkit.jar:git-Bukkit-4cb3258]
+	at net.minecraft.server.v1_9_R1.DedicatedServer.init(DedicatedServer.java:182) [craftbukkit.jar:git-Bukkit-4cb3258]
+	at net.minecraft.server.v1_9_R1.MinecraftServer.run(MinecraftServer.java:506) [craftbukkit.jar:git-Bukkit-4cb3258]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_121]
+[17:06:01] [Server thread/WARN]: Failed to load operators list: 
+java.io.FileNotFoundException: ops.json (No such file or directory)
+	at java.io.FileInputStream.open0(Native Method) ~[?:1.8.0_121]
+	at java.io.FileInputStream.open(FileInputStream.java:195) ~[?:1.8.0_121]
+	at java.io.FileInputStream.<init>(FileInputStream.java:138) ~[?:1.8.0_121]
+	at com.google.common.io.Files.newReader(Files.java:86) ~[craftbukkit.jar:git-Bukkit-4cb3258]
+	at net.minecraft.server.v1_9_R1.JsonList.load(JsonList.java:171) ~[craftbukkit.jar:git-Bukkit-4cb3258]
+	at net.minecraft.server.v1_9_R1.DedicatedPlayerList.A(SourceFile:107) [craftbukkit.jar:git-Bukkit-4cb3258]
+	at net.minecraft.server.v1_9_R1.DedicatedPlayerList.<init>(SourceFile:29) [craftbukkit.jar:git-Bukkit-4cb3258]
+	at net.minecraft.server.v1_9_R1.DedicatedServer.init(DedicatedServer.java:182) [craftbukkit.jar:git-Bukkit-4cb3258]
+	at net.minecraft.server.v1_9_R1.MinecraftServer.run(MinecraftServer.java:506) [craftbukkit.jar:git-Bukkit-4cb3258]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_121]
+[17:06:01] [Server thread/WARN]: Failed to load white-list: 
+java.io.FileNotFoundException: whitelist.json (No such file or directory)
+	at java.io.FileInputStream.open0(Native Method) ~[?:1.8.0_121]
+	at java.io.FileInputStream.open(FileInputStream.java:195) ~[?:1.8.0_121]
+	at java.io.FileInputStream.<init>(FileInputStream.java:138) ~[?:1.8.0_121]
+	at com.google.common.io.Files.newReader(Files.java:86) ~[craftbukkit.jar:git-Bukkit-4cb3258]
+	at net.minecraft.server.v1_9_R1.JsonList.load(JsonList.java:171) ~[craftbukkit.jar:git-Bukkit-4cb3258]
+	at net.minecraft.server.v1_9_R1.DedicatedPlayerList.C(SourceFile:123) [craftbukkit.jar:git-Bukkit-4cb3258]
+	at net.minecraft.server.v1_9_R1.DedicatedPlayerList.<init>(SourceFile:30) [craftbukkit.jar:git-Bukkit-4cb3258]
+	at net.minecraft.server.v1_9_R1.DedicatedServer.init(DedicatedServer.java:182) [craftbukkit.jar:git-Bukkit-4cb3258]
+	at net.minecraft.server.v1_9_R1.MinecraftServer.run(MinecraftServer.java:506) [craftbukkit.jar:git-Bukkit-4cb3258]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_121]
+[17:06:01] [Server thread/INFO]: Preparing level "world"
+[17:06:03] [Server thread/INFO]: Preparing start region for level 0 (Seed: -1974728661568985428)
+[17:06:04] [Server thread/INFO]: Preparing spawn area: 20%
+[17:06:05] [Server thread/INFO]: Preparing spawn area: 40%
+[17:06:06] [Server thread/INFO]: Preparing spawn area: 63%
+[17:06:07] [Server thread/INFO]: Preparing spawn area: 83%
+[17:06:08] [Server thread/INFO]: Preparing start region for level 1 (Seed: -1974728661568985428)
+[17:06:09] [Server thread/INFO]: Preparing spawn area: 21%
+[17:06:10] [Server thread/INFO]: Preparing spawn area: 43%
+[17:06:11] [Server thread/INFO]: Preparing spawn area: 67%
+[17:06:12] [Server thread/INFO]: Preparing spawn area: 93%
+[17:06:12] [Server thread/INFO]: Preparing start region for level 2 (Seed: -1974728661568985428)
+[17:06:13] [Server thread/INFO]: Preparing spawn area: 53%
+[17:06:13] [Server thread/INFO]: Done (12.054s)! For help, type "help" or "?"
+[17:06:34] [User Authenticator #1/INFO]: UUID of player nikmeiser is 50fc0854-5e36-4841-a0a2-b5da2300f112
+[17:06:34] [Server thread/INFO]: nikmeiser[/127.0.0.1:60905] logged in with entity id 1469 at ([world]240.5, 63.0, 303.5)
+[17:06:43] [Server thread/INFO]: nikmeiser lost connection: Disconnected
+[17:06:43] [Server thread/INFO]: nikmeiser left the game.
+[17:06:53] [Server thread/INFO]: Stopping the server
+[17:06:53] [Server thread/INFO]: Stopping server
+[17:06:53] [Server thread/INFO]: Saving players
+[17:06:53] [Server thread/INFO]: Saving worlds
+[17:06:53] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[17:06:53] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[17:06:53] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
